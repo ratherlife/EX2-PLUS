@@ -3,7 +3,7 @@ backend:
   # Edit the repo
   # example: repo: fabricioanciaes/fexlguide
   # the repo name is what you've inserted when you clicked the netlify deploy button
-  repo: YourGitUser/YourReponame
+  repo: ratherlife/EX2-PLUS
   branch: master
 
 public_folder: "site"
