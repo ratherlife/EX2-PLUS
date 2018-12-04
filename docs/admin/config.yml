@@ -38,9 +38,9 @@ collections:
       - {label: "Summary", name: "summary", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
 
-  - name: "System"
-    label: "System"
-    folder: "docs/system"
+  - name: "Miscellaneous"
+    label: "Miscellaneous"
+    folder: "docs/miscellaneous"
     create: true
     slug: "{{slug}}"
     fields:
