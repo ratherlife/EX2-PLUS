@@ -34,7 +34,6 @@ extra_css:
 # Here's an example of a nav structure
 
 nav:
-  - Home: 'index.md'
   - General:
     - Introduction: 'general/introduction.md'
     - Mechanics: 'general/mechanics.md'
@@ -50,7 +49,7 @@ nav:
     - Sagat: 'characters/sagat.md'
     - Vega: 'characters/vega.md'
     - Zangief: 'characters/zangief.md'
-    
+    - /:
     - Area: 'characters/area.md'
     - Doctrine Dark: 'characters/doctrine-dark.md'
     - Darun Mister: 'characters/darun-mister.md'
@@ -65,7 +64,6 @@ nav:
     - Shadowgeist: 'characters/shadowgeist.md'
     - Sharon: 'characters/sharon.md'
     - Skullomania: 'characters/skullomania.md'
-
   - Miscellaneous:
     - Players: 'miscellaneous/players.md'
     - Practice: 'miscellaneous/practice.md'
