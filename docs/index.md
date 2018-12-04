@@ -16,6 +16,12 @@ So, you probably already pressed that netlify button, gave your repository name.
 
 First, edit your `mkdocs.yml` in the root of this repository.
 You can edit it through the github site.
+
+to find where your repos are you can click on your avatar on the top right corner while logged into github:
+![repo location](https://i.imgur.com/POrxqb0.png)
+
+navigate through the files and open the one you want to edit. there should be an edit button like below.
+
 ![editing the mkdocs.yml](https://i.imgur.com/7rvAiao.png)
 
 edit the following entries:
