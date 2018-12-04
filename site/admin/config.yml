@@ -1,0 +1,49 @@
+backend:
+  name: git-gateway
+  # Edit the repo
+  # example: repo: fabricioanciaes/fexlguide
+  # the repo name is what you've inserted when you clicked the netlify deploy button
+  repo: YourGitUser/YourReponame
+  branch: master
+
+public_folder: "site"
+media_folder: "docs/images"
+publish_mode: editorial_workflow
+
+
+# Collections are categories in the side menu.
+# It comes built in with General, Characters and System.
+# The general ones are in the root, that means they arent in a submenu
+# To create a new category you can just copy one of them and commit.
+# Make sure identation is correct (YES, the number of spaces matter)
+
+collections:
+  - name: "General"
+    label: "General"
+    folder: "docs"
+    create: true
+    slug: "{{slug}}"
+    fields:
+    - {label: "Title", name: "title", widget: "string"}
+    - {label: "Summary", name: "summary", widget: "string"}
+    - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "Characters"
+    label: "Characters"
+    folder: "docs/characters"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Summary", name: "summary", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "System"
+    label: "System"
+    folder: "docs/system"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Summary", name: "summary", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}

@@ -1,0 +1,60 @@
+# Project information
+site_name: Your Site Name
+site_description: Description goes here
+site_author: Your Name or Community Name
+site_url: https://yoururl.netlify.com
+
+# Change this to your discord invite link
+repo_name: Join my community Discord
+repo_url: https://discord.gg/invitelink
+edit_uri: ""
+
+#Change the link too
+extra:
+  social:
+    - type: discord
+      link: https://discord.gg/invitelink
+
+theme:
+  name: 'material'
+  custom_dir: 'theme'
+  palette:
+    primary: 'Blue Grey'
+    accent: 'Cyan'
+
+extra_css:
+  - stylesheets/dark_theme.css
+  - stylesheets/codehilite.css
+
+# You can set custom order for the nav items (side menu)
+# If you don't put anything, the menu will be built automatically
+# You can edit this too, but I'm leaving it off so you can decide
+# wether edit manually or let mkdocs decide how to do it.
+
+# Here's an example of a nav structure
+
+# nav:
+#   - Home: 'index.md'
+#   - Systems:
+#     - Mechanics: 'system/system-mechanics.md'
+#     - Deck: 'system/deck.md'
+#     - Gougi: 'system/gougi.md'
+#   - Characters:
+#     - Allen Snider: 'characters/allen-snider.md'
+#     - Area: 'characters/area.md'
+#     - Blair Dame: 'characters/blair-dame.md'
+#     - Darun Mister: 'characters/darun-mister.md'
+#     - Doctrine Dark: 'characters/doctrine-dark.md'
+#     - Garuda: 'characters/garuda.md'
+#     - Hayate: 'characters/hayate.md'
+#     - Hokuto: 'characters/hokuto.md'
+#     - Jack: 'characters/jack.md'
+#     - Kairi: 'characters/kairi.md'
+#     - Pullum Purna: 'characters/pullum-purna.md'
+#     - Sanane: 'characters/sanane.md'
+#     - Shadow Geist: 'characters/shadow-geist.md'
+#     - Sharon: 'characters/sharon.md'
+#     - Shirase: 'characters/shirase.md'
+#     - Skullomania: 'characters/skullomania.md'
+#     - Terry Bogard: 'characters/terry-bogard.md'
+#     - Vulcano Rosso: 'characters/vulcano-rosso.md'
