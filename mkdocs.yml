@@ -33,28 +33,42 @@ extra_css:
 
 # Here's an example of a nav structure
 
-# nav:
-#   - Home: 'index.md'
-#   - Systems:
-#     - Mechanics: 'system/system-mechanics.md'
-#     - Deck: 'system/deck.md'
-#     - Gougi: 'system/gougi.md'
-#   - Characters:
-#     - Allen Snider: 'characters/allen-snider.md'
-#     - Area: 'characters/area.md'
-#     - Blair Dame: 'characters/blair-dame.md'
-#     - Darun Mister: 'characters/darun-mister.md'
-#     - Doctrine Dark: 'characters/doctrine-dark.md'
-#     - Garuda: 'characters/garuda.md'
-#     - Hayate: 'characters/hayate.md'
-#     - Hokuto: 'characters/hokuto.md'
-#     - Jack: 'characters/jack.md'
-#     - Kairi: 'characters/kairi.md'
-#     - Pullum Purna: 'characters/pullum-purna.md'
-#     - Sanane: 'characters/sanane.md'
-#     - Shadow Geist: 'characters/shadow-geist.md'
-#     - Sharon: 'characters/sharon.md'
-#     - Shirase: 'characters/shirase.md'
-#     - Skullomania: 'characters/skullomania.md'
-#     - Terry Bogard: 'characters/terry-bogard.md'
-#     - Vulcano Rosso: 'characters/vulcano-rosso.md'
+nav:
+  - Home: 'index.md'
+  - General:
+    - Introduction: 'general/introduction.md'
+    - Mechanics: 'general/mechanics.md'
+    - EXCEL: 'general/excel.md'
+  - Characters:
+    - Bison: 'characters/bison.md'
+    - Blanka: 'characters/blanka.md'
+    - Chun-Li: 'characters/chun-li.md'
+    - Dhalsim: 'characters/dhalsim.md'
+    - Guile: 'characters/guile.md'
+    - Ken: 'characters/ken.md'
+    - Ryu: 'characters/ryu.md'
+    - Sagat: 'characters/sagat.md'
+    - Vega: 'characters/vega.md'
+    - Zangief: 'characters/zangief.md'
+    
+    - Area: 'characters/area.md'
+    - Doctrine Dark: 'characters/doctrine-dark.md'
+    - Darun Mister: 'characters/darun-mister.md'
+    - Garuda: 'characters/garuda.md'
+    - Hokuto: 'characters/hokuto.md'
+    - Hayate: 'characters/hayate.md'
+    - Jack: 'characters/jack.md'
+    - Kairi: 'characters/kairi.md'
+    - Nanase: 'characters/nanase.md'
+    - Pullum Purna: 'characters/pullum-purna.md'
+    - Vulcano Rosso: 'characters/vulcano-rosso.md'
+    - Shadowgeist: 'characters/shadowgeist.md'
+    - Sharon: 'characters/sharon.md'
+    - Skullomania: 'characters/skullomania.md'
+
+  - Miscellaneous:
+    - Players: 'miscellaneous/players.md'
+    - Practice: 'miscellaneous/practice.md'
+    - Footage: 'miscellaneous/footage.md'
+
+    - Netplay: 'miscellaneous/netplay.md'
