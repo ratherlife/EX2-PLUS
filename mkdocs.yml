@@ -1,15 +1,12 @@
-# Project information
 site_name: Street Fighter EX2 PLUS
 site_description: dead game
 site_author: ksm
 site_url: https://ex2p.netlify.com
 
-# Change this to your discord invite link
 repo_name: Join this Discord!
 repo_url: https://discordapp.com/invite/GaTEgH3
 edit_uri: ""
 
-#Change the link too
 extra:
   social:
     - type: discord
@@ -26,12 +23,24 @@ extra_css:
   - stylesheets/dark_theme.css
   - stylesheets/codehilite.css
 
-# You can set custom order for the nav items (side menu)
-# If you don't put anything, the menu will be built automatically
-# You can edit this too, but I'm leaving it off so you can decide
-# wether edit manually or let mkdocs decide how to do it.
-
-# Here's an example of a nav structure
+markdown_extensions:
+  - admonition
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
 
 nav:
   - General:
