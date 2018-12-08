@@ -8,40 +8,6 @@ For a table with all characters, click here.
 
 ## Normals
 ### Standing
-<table style="width:100%">
-<tbody><tr>
-<td style="width:10%;border:1px solid silver;text-align:center" rowspan="3"><strong>Move</strong><br>
-<strong>5LP</strong><br>
-{$image}<br>
-<em>{$caption}</em></td>
-<td style="width:10%;border:1px solid silver;text-align:center;font-weight:bold">Damage</td>
-<td style="width:10%;border:1px solid silver;text-align:center;font-weight:bold">Startup</td>
-<td style="width:10%;border:1px solid silver;text-align:center;font-weight:bold">Active</td>
-<td style="width:10%;border:1px solid silver;text-align:center;font-weight:bold">Recovery</td>
-<td style="width:10%;border:1px solid silver;text-align:center;font-weight:bold">Total</td>
-<td style="width:10%;border:1px solid silver;text-align:center;font-weight:bold">On Block</td>
-<td style="width:10%;border:1px solid silver;text-align:center;font-weight:bold">On Hit</td>
-<td style="width:10%;border:1px solid silver;text-align:center;font-weight:bold">Guard</td>
-<td style="width:10%;border:1px solid silver;text-align:center;font-weight:bold">Cancel</td>
-</tr>
-<tr>
-<td style="width:10%;border:1px solid silver;text-align:center">2</td>
-<td style="width:10%;border:1px solid silver;text-align:center">3</td>
-<td style="width:10%;border:1px solid silver;text-align:center">4</td>
-<td style="width:10%;border:1px solid silver;text-align:center">7</td>
-<td style="width:10%;border:1px solid silver;text-align:center">14</td>
-<td style="width:10%;border:1px solid silver;text-align:center">0</td>
-<td style="width:10%;border:1px solid silver;text-align:center">+2</td>
-<td style="width:10%;border:1px solid silver;text-align:center">H/L</td>
-<td style="width:10%;border:1px solid silver;text-align:center">ch/sp/su</td>
-</tr>
-<tr>
-<td style="width:10%;padding:10px;border:1px solid silver" colspan="9">Garuda's fastest normal and one of the fastest in the game at 3f startup.<br>
-Whiffs on all crouching characters, with inconsistent hits on Sagat, Darun and Zangief, so mainly used as an anti-air EXCEL starter.</td>
-</tr>
-</tbody></table>
-
-
 ### Crouching
 ### Jumping
 ### Command Moves
@@ -102,7 +68,33 @@ Rare crouching confirm vs Zangief and Darun.
 Stylish and his highest damage confirm, but unlikely as it whiffs against crouching opponents.
 
 ### Bread and Butter
+**(jHK) 2MP, 2MK xx 236HP**  
+(60) 41 dmg, (26) 18 meter*  
+Noticeably less damage, but still ok.  
+
+**(jHK) 2MP, 2MK xx 623HP**  
+*(72) 54 dmg, (32) 24 meter*  
+Ideal confirm.  
 #### 1 gauge
+**(jHK) 2MP, 2MK xx 236HP xx 236236P**  
+*(79 - 94) 60 - 75 dmg, (27) 19 meter*  
+Basically as much damage from a jump-in as an EXCEL, if you have TAS levels of mashing.  
+Sideswitches and leaves the opponent backturned on their wakeup.  
+Hitting the ambiguous jump-in after will justify the resources spent.  
+
+**(jHK) 2MP, 2MK xx 623HP xx j214214P**  
+*(88) 70 dmg, (32) 24 meter*  
+Use this to get the round win by squeezing out slightly more damage.  
+Best possible super cancel would be the second to last hit of 623HP.  
+
+<span style="color: deepskyblue">**5LK > 6HP > 236HP > 236HP > 236HP > 623HP**</span>  
+*78 dmg, 0 meter*  
+
+<span style="color: deepskyblue">**5LK > 5HP > 5HK > 6HP(1) > 236HP > 236HP > 236HP > 623HP**</span>  
+*94 dmg, 0 meter*  
+
+<span style="color: deepskyblue">**2MP > 5HP > 5HK > 6HP(1) > 236HP > 236HP > 236HP > 623HP**</span>  
+*98 dmg, 0 meter*  
 #### 2 gauge
 #### 3 gauge
 ### Meter Management
