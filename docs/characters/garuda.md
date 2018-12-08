@@ -69,12 +69,13 @@ Stylish and his highest damage confirm, but unlikely as it whiffs against crouch
 
 ### Bread and Butter
 **(jHK) 2MP, 2MK xx 236HP**  
-(60) 41 dmg, (26) 18 meter*  
+*(60) 41 dmg, (26) 18 meter*  
 Noticeably less damage, but still ok.  
 
 **(jHK) 2MP, 2MK xx 623HP**  
 *(72) 54 dmg, (32) 24 meter*  
-Ideal confirm.  
+Ideal confirm. 
+
 #### 1 gauge
 **(jHK) 2MP, 2MK xx 236HP xx 236236P**  
 *(79 - 94) 60 - 75 dmg, (27) 19 meter*  
@@ -94,9 +95,38 @@ Best possible super cancel would be the second to last hit of 623HP.
 *94 dmg, 0 meter*  
 
 <span style="color: deepskyblue">**2MP > 5HP > 5HK > 6HP(1) > 236HP > 236HP > 236HP > 623HP**</span>  
-*98 dmg, 0 meter*  
+*98 dmg, 0 meter* 
+
 #### 2 gauge
+<span style="color: deepskyblue">**5LK > 5HP > 5HK > 6HP(1) > 236HP > 236HP > 41236HK</span> xx 214214P**  
+*110 dmg, 0 meter*  
+Getting max damage on this is difficult, since connecting all hits of the second 236HP might make 41236HK hit after EXCEL has ended.  
+Also adjusting 214214P to get as many hits possible.
+
+<span style="color: deepskyblue">**5LK > 5HP > 5HK > 6HP(1) > 236HP > 236HP > 41236HK</span> xx 214214[K] jHK**  
+*120 dmg, 9 meter*  
+Against bigger characters.  
+
 #### 3 gauge
+<span style="color: deepskyblue">**5LK > 5HP > 5HK > 6HP(1) > 236HP > 236HP > 41236HK</span> xx 214214[K] xx 214214P**  
+*152 dmg, 1 meter*  
+214214[K] will whiff without the super cancel right as they come close to the ground.  
+After that, hold forward and adjust movement.  
+
+<span style="color: deepskyblue">**5LK > 5HP > 5HK > 6HP(1) > 236HP > 236HP > 41236HK</span> xx 214214[K] <span style="color: deepskyblue">j5HK > j5LPw, 6HP(1) > 236HP > 236HP > 236HP > 623HP</span>**  
+*184 dmg, 1 meter*  
+Just hold up forward after 214214[K] and active EXCEL at the peak of your jump.  
+Bigger character version.  
+
+<span style="color: lightcoral">**214214KKK(4)->236236K->214214P**</span>  
+*164 dmg, 0 meter*  
+Mashing out the 164 might not be humanly possible.  
+See for yourself.  
+
+<span style="color: lightcoral">**214214KKK(4)->236236K,</span> 623HP**  
+*144 dmg, 14 meter*  
+For when you feel some type of way.  
+
 ### Meter Management
 Managing your meter with Garuda is just as complex as his EXCEL theory. If you feel like spending meter, just do it.  
 On a more serious note, you should avoid blowing all your resources on 236HP xx 236236P, but since it leaves your opponent backturned on their wakeup, it is still quite the strong option. Just like other characters, you want to manage your resources in a way that lets you participate in the mindgames that come with delayed super cancels and EXCEL activations.
