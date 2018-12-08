@@ -136,13 +136,18 @@ For Garuda, this is not possible, as his EXCEL combos do not loop nor build mete
 Landing one into full combo though will build back 32 meter and deal 85 damage.
 
 ### Specific Combos
+<span style="color: deepskyblue">**5LK 5HP 5HK 6HP(1) 236HP 236HP 41236HK</span> xx 214214[K] jHK 41236HK**  
+*134 dmg*  
+Against Darun, Zangief, Sagat
+
+*insert yuuka combos*
 ## Offensive Options
 ### EXCEL block strings
 Just try to keep things tight and continue the pressure afterwards. The cancels make it easy to avoid gaps and 236LP will keep you advantaged.  
 Ending in 623PPP is also possible, but unless your opponent is panicking and whiffing big moves, this is not recommended.
 
 To get a feeling for how it could look:  
-5LK 6HP 236HP 41236HK 236LP
+<span style="color: deepskyblue">**5LK 6HP 236HP 41236HK 236LP**</span>
 
 ### 236P block strings
 4, 6, 8 chip damage. 8, 10, 12 meter build on block. +10, +9, +8 on block.
