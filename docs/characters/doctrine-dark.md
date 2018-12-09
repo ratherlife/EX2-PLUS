@@ -1,5 +1,5 @@
 # Doctrine Dark
-!!! success "Strengths" - One of the few characters than can confirm normals/specials into EXCEL combos.
+::: success "Strengths" - One of the few characters than can confirm normals/specials into EXCEL combos.
 
 ## Movement
 
