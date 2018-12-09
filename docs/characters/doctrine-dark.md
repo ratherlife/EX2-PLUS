@@ -1,4 +1,6 @@
 # Doctrine Dark
+!!! success One of the few characters than can confirm normals/specials into EXCEL combos.
+
 ## Movement
 
 Movement data by [jed](https://twitter.com/mountainmanjed).  
@@ -54,6 +56,9 @@ Optimized damage against standing only.<br>
 If you are confident in your mashing, it is total 6x 5LP.
 
 #### 2 gauge
+**5MK xx 236P->4P jHK <span style="color: deepskyblue">jump forward jMK > jMP > jHP > jHK > 2HP > 5HP > 5HK > 5MK > 5MP > 2LPw</span> 5HK xx 236236**<br>
+*112 dmg, 28 meter gain*
+
 **<span style="color: deepskyblue">5MK > 5MP > 5HP > 5MK > 5MK > 2HP > 2MP > 2MK > 5MK > 5MK > 5HK > 5LPw,</span> 5MK xx 236P->4P<br>
 jHK <span style="color: deepskyblue">jump forward jMK > jMP > jHP > jHK > 2HP > 5HP > 5HK > 5MK > 5MP > 6MK,</span> 5LP jHP**<br>
 *119 dmg, 33 meter gain*<br>
@@ -66,8 +71,8 @@ Less damage for easy 50/50.
 
 #### 3 gauge
 **<span style="color: deepskyblue">5MK > 5MP > 5HP > 5MK > 5MK > 2HP > 2MP > 2MK > 5MK > 5MK > 5HK > 5LPw,</span> 5MK xx 236P->4P<br>
-jHK <span style="color: deepskyblue">jump forward jMK > jMP > jHP > jHK > 2HP > 5HP > 5HK > 5MK > 5MP > 2LPw</span> 5HK xx 236236**<br>
-
+jHK <span style="color: deepskyblue">jump forward jMK > jMP > jHP > jHK > 2HP > 5HP > 5HK > 5MK > 5MP > 2LPw</span> 5HP xx 236236P**<br>
+*135 dmg, 28 meter gain*<br>
 
 ### Meter Management
 #### Guard Break
