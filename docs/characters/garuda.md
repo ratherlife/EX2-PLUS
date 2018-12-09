@@ -8,6 +8,40 @@ For a table with all characters, click here.
 
 ## Normals
 ### Standing
+<p>
+	<table>
+	<tbody>
+		<tr>
+			<td style="text-align: center;border: 1px solid silver;" rowspan="3">Move<br>
+			5LP</td>
+			<td style="text-align: center;font-weight: bold;border: 1px solid silver;">Damage</td>
+			<td style="text-align: center;font-weight: bold;border: 1px solid silver;">Startup</td>
+			<td style="text-align: center;font-weight: bold;border: 1px solid silver;">Active</td>
+			<td style="text-align: center;font-weight: bold;border: 1px solid silver;">Recovery</td>
+			<td style="text-align: center;font-weight: bold;border: 1px solid silver;">Total</td>
+			<td style="text-align: center;font-weight: bold;border: 1px solid silver;">On Block</td>
+			<td style="text-align: center;font-weight: bold;border: 1px solid silver;">On Hit</td>
+			<td style="text-align: center;font-weight: bold;border: 1px solid silver;">Guard</td>
+			<td style="text-align: center;font-weight: bold;border: 1px solid silver;">Cancel</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;border: 1px solid silver;">2</td>
+			<td style="text-align: center;border: 1px solid silver;">3</td>
+			<td style="text-align: center;border: 1px solid silver;">4</td>
+			<td style="text-align: center;border: 1px solid silver;">7</td>
+			<td style="text-align: center;border: 1px solid silver;">14</td>
+			<td style="text-align: center;border: 1px solid silver;">0</td>
+			<td style="text-align: center;border: 1px solid silver;">+2</td>
+			<td style="text-align: center;border: 1px solid silver;">H/L</td>
+			<td style="text-align: center;border: 1px solid silver;">ch/sp/su</td>
+		</tr>
+		<tr>
+			<td style="border: 1px solid silver;" colspan="9">Garuda's fastest normal and one of the fastest in the game at 3f startup.<br>
+			Whiffs on all crouching characters, with inconsistent hits on Sagat, Darun and Zangief, so mainly used as an anti-air EXCEL starter.</td>
+		</tr>
+	</tbody>
+</table>
+</p>
 ### Crouching
 ### Jumping
 ### Command Moves
