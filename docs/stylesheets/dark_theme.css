@@ -25,6 +25,11 @@ Main headlines
   font-weight: 400;
 }
 
+.md-main p {
+  text-align: justify;
+}
+
+
 /*
 Tables
 */
